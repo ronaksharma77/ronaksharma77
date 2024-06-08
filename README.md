@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>Hii !! I'm Ronak Sharma, from IIT Guwahati</h2>
-I'm currently working on CS fundamentals<br>Funfact : Fun can never be a fact !
+Software Development | DSA | Web Development 
 
 
 
