@@ -2,6 +2,7 @@
 <h2>Hii !! I'm Ronak Sharma, from IIT Guwahati</h2>
 I'm passionate about Software Development, Full Stack Web Development, Data Structures and Algorithms, blockchain<br>.<br>
 
+Contact me on: ronak@iitg.ac.in OR ronaksharma.rk77@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/say_it_ronak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaksharmark77) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ronak-Sharma-158) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/say_it_ronak) 
